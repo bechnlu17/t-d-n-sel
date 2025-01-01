@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "trideni 4", "trideni 4.vbproj", "{B3D8B599-419F-4D30-8113-877A3255417A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3D8B599-419F-4D30-8113-877A3255417A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D8B599-419F-4D30-8113-877A3255417A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D8B599-419F-4D30-8113-877A3255417A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D8B599-419F-4D30-8113-877A3255417A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {531FEA72-AD8C-4767-ABC4-39686C299F6A}
+	EndGlobalSection
+EndGlobal
